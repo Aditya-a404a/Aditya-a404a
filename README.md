@@ -8,17 +8,13 @@ I am a versatile developer with strong problem-solving skills and experience in 
 ## 🔑 Key Projects
 
 ### 🍸 Electric Bartender
-- **Role**: Team Lead (3 members)
+- **Role**: Developer 
 - **Description**: Developed a product capable of providing 16 drink options, with preparation completed in 2 seconds.
 - **Impact**: Created an innovative solution that enhances user experience by improving speed and variety in beverage preparation.
 
-### 🤖 Goggin AI
+### 🤖 Goggins AI
 - **Description**: A project designed to increase productivity by 20% using AI-driven solutions.
 - **Impact**: Streamlined workflows and increased operational efficiency across various tasks.
-
-### ❤️ Truth (Dating App)
-- **Description**: A dating app aimed at increasing meaningful matches by 40%.
-- **Status**: Currently not developed.
 
 ---
 
@@ -35,6 +31,7 @@ I am a versatile developer with strong problem-solving skills and experience in 
 Specialized in:
 - 🐞 Bug-finding and code optimization in React.js projects.
 - 🚀 Helping teams enhance product quality and performance.
+- Django and many backend technologies 
 
 ---
 
