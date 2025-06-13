@@ -22,7 +22,7 @@ I am a versatile developer with strong problem-solving skills and experience in 
 - **💡 Problem-Solving**: Expertise in algorithm design and solving complex technical challenges.
 - **⚛️ React.js**: Proficient in debugging and optimizing React.js applications, with experience in freelancing for bug-finding.
 - **⚙️ Backend Development**: Strong knowledge of backend technologies and architectural design.
-- **🧑‍💻 LeetCode**: Solved 1800+ problems with a rating of 1888+ and a 'Knight' badge.
+- **🧑‍💻 LeetCode**: Solved 2260+ problems with a rating of 2304+ and a 'Knight' badge.
 - **🌐 Languages**: Fluent in Python, Java, Hindi, and English.
 
 ---
