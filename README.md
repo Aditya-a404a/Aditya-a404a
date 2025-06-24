@@ -1,28 +1,57 @@
-# Personal README
-
-## 👤 About Me
+## Me
 I am a versatile developer with strong problem-solving skills and experience in product development, freelancing, and optimizing systems. My expertise spans across React.js, Python, Java, and backend technologies, with a focus on delivering high-quality solutions that boost productivity and efficiency.
-
----
----
-
-## 🔥 My GitHub Stats
-
-<!-- GitHub Stats Card -->
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-a404a&show_icons=true&theme=tokyonight)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-a404a&theme=tokyonight)
-
-<!-- Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-a404a&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya789arora/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1888+-orange?logo=leetcode)](https://leetcode.com/u/adi_arr/)
+
+---
+## Skills & Expertise
+
+### 💡 Problem Solving
+<img src="https://img.shields.io/badge/Algorithms-Expert-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-2260+_Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode%20Rating-2304+-informational?style=for-the-badge&logo=leetcode" />
+
+---
+
+###  React.js
+<img src="https://img.shields.io/badge/React.js-Expert-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-Used-green?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Freelancer-Bug%20Finder-informational?style=for-the-badge&logo=freelancer&logoColor=white" />
+
+---
+
+### ⚙️ Backend Development
+<img src="https://img.shields.io/badge/FastAPI-Python-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-Backend-success?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-informational?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-Built-lightgrey?style=for-the-badge&logo=fastapi" />
+
+---
+
+### 🧑‍💻 Competitive Programming
+<img src="https://img.shields.io/badge/LeetCode-Guardian%20Badge-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-Active-critical?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+---
+
+### 🌐 Languages 
+<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Experienced-red?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Hindi-Native-informational?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/English-Fluent-success?style=for-the-badge&logoColor=white" />
+
+---
+
+## 🔥 My GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-a404a&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-a404a&layout=compact&theme=tokyonight)
+
+---
 
 ##  Projects
 
