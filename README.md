@@ -6,14 +6,13 @@ I am a versatile developer with strong problem-solving skills and experience in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya789arora/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1888+-orange?logo=leetcode)](https://leetcode.com/u/adi_arr/)
 
----
-## Skills & Expertise
+## Skills 
 
-### 💡 Problem Solving
-<img src="https://img.shields.io/badge/Algorithms-Expert-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode-2260+_Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/LeetCode%20Rating-2304+-informational?style=for-the-badge&logo=leetcode" />
+### Languages
+
+<img src="https://img.shields.io/badge/Python-Experienced-red?style=for-the-badge&logo=python" />  <img src="https://img.shields.io/badge/Javascript-Experienced-red?style=for-the-badge&logo=javascript" />  <img src="https://img.shields.io/badge/Java-Advanced-yellow?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/Typescript-Advanced-yellow?style=for-the-badge&logo=typescript" />
+
+<img src="https://img.shields.io/badge/Algorithms-Expert-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" /><img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge&logo=codeforces&logoColor=white" /><img src="https://img.shields.io/badge/LeetCode-2260+_Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" /><img src="https://img.shields.io/badge/LeetCode%20Rating-2304+-informational?style=for-the-badge&logo=leetcode" />
 
 ---
 
@@ -94,3 +93,4 @@ Specialized in:
 
 ## 🚀 Current Focus
 Seeking a position to help others learn problem-solving skills and contribute to increasing productivity through innovative technological solutions.
+
