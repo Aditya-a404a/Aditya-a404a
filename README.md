@@ -9,21 +9,20 @@ I am a versatile developer with strong problem-solving skills and experience in 
 ## 🔥 My GitHub Stats
 
 <!-- GitHub Stats Card -->
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaarora&show_icons=true&theme=tokyonight)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-a404a&show_icons=true&theme=tokyonight)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaarora&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-a404a&theme=tokyonight)
 
 <!-- Top Langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarora&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-a404a&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/YOUR-HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1888+-orange?logo=leetcode)](https://leetcode.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya789arora/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1888+-orange?logo=leetcode)](https://leetcode.com/u/adi_arr/)
 
 ##  Projects
 
