@@ -1,96 +1,52 @@
-## Me
-I am a versatile developer with strong problem-solving skills and experience in product development, freelancing, and optimizing systems. My expertise spans across React.js, Python, Java, and backend technologies, with a focus on delivering high-quality solutions that boost productivity and efficiency.
+<!-- Profile Header -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+I+am+Aditya+;Competitive+Programmer+%7C+Developer++" alt="Typing SVG" /></a></h3>
 
-## 📫 Connect with Me
+<!-- Badges & Stats -->
+ <table>
+  <tr>
+    <!-- First image spans two rows and takes 50% of the table’s width -->
+    <td width="50%" rowspan="2">
+      <img src="https://leetcard.jacoblin.cool/adi_arr?theme=dark&ext=contest" width="100%" alt="First">
+    </td>
+    <!-- Second image sits in the top‑right cell -->
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiArora&theme=radical" width="100%" alt="Second">
+    </td>
+  </tr>
+  <tr>
+    <!-- Third image sits in the bottom‑right cell -->
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuM2tqd25zZTJiOTd3YmNnczNtZTh2d3hkbDhlOXE4c2ZjbWg2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aPuY0iblEJupNGrWL/giphy.gif" width="100%" alt="Third">
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya789arora/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1888+-orange?logo=leetcode)](https://leetcode.com/u/adi_arr/)
+## 🛠️ Skills
 
-## Skills 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Languages
+## 📚 About Me
 
-<img src="https://img.shields.io/badge/Python-Experienced-red?style=for-the-badge&logo=python" />  <img src="https://img.shields.io/badge/Javascript-Experienced-red?style=for-the-badge&logo=javascript" />  <img src="https://img.shields.io/badge/Java-Advanced-yellow?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/Typescript-Advanced-yellow?style=for-the-badge&logo=typescript" />
+- 🏆 Knight level on LeetCode with 2200+ problems solved
+- 🎯 Strong in DSA, problem solving, and system design
+- 🚀 Building scalable web applications with React & FastAPI
+- 🎓 B.Tech in Computer Science with CGPA 8.5/10
 
-<img src="https://img.shields.io/badge/Algorithms-Expert-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" /><img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge&logo=codeforces&logoColor=white" /><img src="https://img.shields.io/badge/LeetCode-2260+_Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" /><img src="https://img.shields.io/badge/LeetCode%20Rating-2304+-informational?style=for-the-badge&logo=leetcode" />
+## 💼 Projects
 
----
+- **🧠 Transcript AI:** Video summarization app using OpenAI & YouTube API
+- **💰 AD Wallet:** Multi-chain crypto wallet with Ethereum & Solana support
+- **🍹 Electric Bartender:** Automated drink mixer with 16 options in 2 sec prep time
 
-###  React.js
-<img src="https://img.shields.io/badge/React.js-Expert-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-Used-green?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Freelancer-Bug%20Finder-informational?style=for-the-badge&logo=freelancer&logoColor=white" />
+## 📫 Contact Me
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aditya789arora)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya789arora@gmail.com)
 
-### ⚙️ Backend Development
-<img src="https://img.shields.io/badge/FastAPI-Python-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-Backend-success?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-informational?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-Built-lightgrey?style=for-the-badge&logo=fastapi" />
-
----
-
-### 🧑‍💻 Competitive Programming
-<img src="https://img.shields.io/badge/LeetCode-Guardian%20Badge-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-Active-critical?style=for-the-badge&logo=codeforces&logoColor=white" />
-
----
-
-### 🌐 Languages 
-<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Experienced-red?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Hindi-Native-informational?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/English-Fluent-success?style=for-the-badge&logoColor=white" />
-
----
-
-## 🔥 My GitHub Stats
-
-<!-- GitHub Stats Card -->
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-a404a&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-a404a&layout=compact&theme=tokyonight)
-
----
-
-##  Projects
-
-### Store polling System for status 
-- **Description**: A backend system that helps Loop monitor the uptime and downtime of restaurant stores in the US based on their business hours and activity logs.
-- **Impact**: Reduced the polling frequency to save Resources
-
-- ### 🤖 Transcript AI
-- **Description**: A project designed to increase productivity by 20% using AI-driven solutions.
-- **Impact**: Streamlined n8n workflows and increased operational efficiency by generating AI summary.
-
-### Electric Bartender
-- **Description**: Developed a product capable of providing 16 drink options, with preparation completed in 2 seconds.
-- **Impact**: Created an innovative solution that enhances user experience by improving speed and variety in beverage preparation.
-
----
-
-## 🛠️ Skills & Expertise
-- **💡 Problem-Solving**: Expertise in algorithm design and solving complex technical challenges.
-- **⚛️ React.js**: Proficient in debugging and optimizing React.js applications, with experience in freelancing for bug-finding.
-- **⚙️ Backend Development**: Strong knowledge of backend technologies and architectural design.
-- **🧑‍💻 LeetCode**: Solved 2260+ problems with a rating of 2304+ and a 'Knight' badge.
-- **🌐 Languages**: Fluent in Python, Java, Hindi, and English.
-
----
-
-## 💼 Freelance Experience
-Specialized in:
-- 🐞 Bug-finding and code optimization in React.js projects.
-- 🚀 Helping teams enhance product quality and performance.
-- Django and many backend technologies 
-
----
-
-## 🎓 Education & Background
-- **🌍 Languages**: Hindi and English
-- **💻 Technical Skills**: Proficient in Python, Java, and algorithmic problem-solving.
-
----
-
-## 🚀 Current Focus
-Seeking a position to help others learn problem-solving skills and contribute to increasing productivity through innovative technological solutions.
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdiArora&theme=radical&no-frame=true&row=1" />
+</p>
