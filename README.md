@@ -10,7 +10,7 @@
     </td>
     <!-- Second image sits in the top‑right cell -->
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiArora&theme=radical" width="100%" alt="Second">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-a404a&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
