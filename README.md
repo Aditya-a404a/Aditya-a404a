@@ -29,18 +29,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📚 About Me
+## About Me
 
-- 🏆 Knight level on LeetCode with 2200+ problems solved
-- 🎯 Strong in DSA, problem solving, and system design
-- 🚀 Building scalable web applications with React & FastAPI
-- 🎓 B.Tech in Computer Science with CGPA 8.5/10
+-  Guardian level on LeetCode with 2300+ problems solved
+-  Strong in DSA, problem solving, and system design
+-  Building scalable web applications with React & FastAPI
+-  B.Tech in Computer Science with CGPA 8.5/10
 
 ## 💼 Projects
-
-- **🧠 Transcript AI:** Video summarization app using OpenAI & YouTube API
-- **💰 AD Wallet:** Multi-chain crypto wallet with Ethereum & Solana support
-- **🍹 Electric Bartender:** Automated drink mixer with 16 options in 2 sec prep time
+- ** CpEditor:** A Free to use web editor with question formatter and code analiyis and much more
+- ** ExeServer:** A Open Source Server to execute any type of code using the api
+- ** Transcript AI:** Video summarization app using OpenAI & YouTube API
+- ** AD Wallet:** Multi-chain crypto wallet with Ethereum & Solana support
+- ** Electric Bartender:** Automated drink mixer with 16 options in 2 sec prep time
 
 ## 📫 Contact Me
 
@@ -48,5 +49,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya789arora@gmail.com)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdiArora&theme=radical&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-a404a&theme=radical&no-frame=true&row=1" />
 </p>
